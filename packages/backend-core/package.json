@@ -48,7 +48,7 @@
     "pouchdb-replication-stream": "1.2.9",
     "redlock": "4.2.0",
     "sanitize-s3-objectkey": "0.0.1",
-    "semver": "7.3.7",
+    "semver": "7.5.2",
     "tar-fs": "2.1.1",
     "uuid": "8.3.2",
     "zlib": "1.0.5"
