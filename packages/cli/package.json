@@ -29,7 +29,7 @@
     "@budibase/backend-core": "2.1.22-alpha.7",
     "@budibase/string-templates": "2.1.22-alpha.7",
     "@budibase/types": "2.1.22-alpha.7",
-    "axios": "0.21.2",
+    "axios": "1.6.0",
     "chalk": "4.1.0",
     "cli-progress": "3.11.2",
     "commander": "7.1.0",
