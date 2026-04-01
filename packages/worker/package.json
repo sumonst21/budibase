@@ -60,7 +60,7 @@
     "koa-session": "5.13.1",
     "koa-static": "5.0.0",
     "node-fetch": "2.6.7",
-    "nodemailer": "6.7.2",
+    "nodemailer": "8.0.4",
     "passport-google-oauth": "2.0.0",
     "passport-jwt": "4.0.0",
     "passport-local": "1.0.0",
