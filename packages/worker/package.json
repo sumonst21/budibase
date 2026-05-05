@@ -36,7 +36,7 @@
   "author": "Budibase",
   "license": "GPL-3.0",
   "dependencies": {
-    "@budibase/backend-core": "2.1.22-alpha.7",
+    "@budibase/backend-core": "3.35.10",
     "@budibase/pro": "2.1.22-alpha.7",
     "@budibase/string-templates": "2.1.22-alpha.7",
     "@budibase/types": "2.1.22-alpha.7",
@@ -60,7 +60,7 @@
     "koa-session": "5.13.1",
     "koa-static": "5.0.0",
     "node-fetch": "2.6.7",
-    "nodemailer": "6.7.2",
+    "nodemailer": "8.0.5",
     "passport-google-oauth": "2.0.0",
     "passport-jwt": "4.0.0",
     "passport-local": "1.0.0",
