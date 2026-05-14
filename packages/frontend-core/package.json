@@ -8,6 +8,6 @@
   "dependencies": {
     "@budibase/bbui": "2.1.22-alpha.7",
     "lodash": "^4.17.21",
-    "svelte": "^3.46.2"
+    "svelte": "^5.55.7"
   }
 }
